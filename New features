@@ -1,0 +1,12 @@
+Next-Generation AMM: Combines Uniswap V2’s constant product model, Curve’s StableSwap for pegged assets, and Uniswap V3’s concentrated liquidity for improved capital efficiency.
+
+Vote-Escrow Governance: AERO token holders can lock their tokens for up to four years to receive veAERO (vote-escrow AERO) NFTs, granting voting power to direct AERO emissions to specific liquidity pools.
+
+Liquidity Incentives: LPs earn AERO tokens based on the votes their pool receives during weekly epochs, incentivizing liquidity provision without relying solely on trading fees.
+
+High Trading Volume: Processes ~57% of all DEX volume on Base, with $2.84B in trading volume during a single epoch.
+
+User-Friendly Interface: Designed for both novice and experienced traders, with intuitive navigation for trading, liquidity provision, and governance.
+
+Low Fees and Fast Transactions: Charges 0.02% per swap and leverages Base’s 2-second block times (soon 200ms with Flashblocks) for near-instant trades.
+
