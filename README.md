@@ -1,2 +1,3 @@
 # Aerodrome-A-new-kind-of-DEX
 A new kind of DEX
+Aerodrome Finance is redefining decentralized exchanges (DEXs) by combining cutting-edge automated market maker (AMM) technology with a unique vote-escrow governance model. Launched in August 2023 on the Base network, an Ethereum Layer 2 solution developed by Coinbase, Aerodrome has quickly become the leading DEX on Base, boasting a total value locked (TVL) of $1.24B—roughly half of all value on the blockchain. This article explores what makes Aerodrome a next-generation DEX, its innovative features, and its impact on the decentralized finance (DeFi) ecosystem.
