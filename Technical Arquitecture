@@ -1,0 +1,12 @@
+Aerodrome’s smart contracts, available on GitHub, are built on the Velodrome V2 framework with enhancements for Base. Key components include:Pool Contracts: Manage liquidity for stable and variable pools using Curve’s StableSwap and Uniswap’s constant product formulas.
+
+Gauge Contracts: Distribute AERO emissions to LPs based on veAERO votes. LPs deposit LP tokens into gauges, relinquishing fees for emissions.
+
+Reward Contracts: Handle AERO distribution for LPs and fees/incentives for veAERO holders. Includes FeesVotingReward.sol and BribeVotingReward.sol for epoch-based payouts.
+
+veAERO NFTs: Non-fungible tokens representing locked AERO, used for voting and governance.
+
+Concentrated Liquidity (clAMM): Allows LPs to specify active trading ranges, reducing slippage and improving capital efficiency.
+
+The contracts are open-source, verifiable, and non-custodial, ensuring transparency and security. However, no security audits are publicly listed, so users should exercise caution.
+
