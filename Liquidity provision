@@ -1,0 +1,2 @@
+Liquidity providers deposit tokens into pools (e.g., stable or volatile pairs) and receive LP tokens. These pools are paired with gauges that distribute AERO emissions based on votes from veAERO holders. Unlike traditional DEXs, LPs relinquish trading fees to the gauge but earn AERO rewards proportional to the pool’s votes, creating a predictable reward stream
+
